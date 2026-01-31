@@ -20,7 +20,7 @@
 
 ## CONFIGURACIÓN DE GIT
 
-```
+```git
 git config --global user.name "name"
 
 git config --global user.email email@email.com
