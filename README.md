@@ -110,3 +110,5 @@ git config --global init.defaultBranch main
 - `git branch <nombrerama>` = Para crear una rama usamos **branch** seguido del nombre que queremos dar a la rama.
 
 - `git checkout <nombrerama>` = Para cambiar de rama usamos el comando **checkout**.
+
+- `git merge <nombrerama>` = se usa para incorporar los cambios a la rama principal.
