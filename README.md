@@ -1,4 +1,6 @@
-# Git & GitHub
+<h1>
+Curso Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width=40px alt="curso git" /> & GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width=40px alt="github" style="filter: brightness(0) invert(1);"/>
+</h1>
 
 ## Fundamentos Git 📂
 
